@@ -1,0 +1,10 @@
+E:\placement test\PTPNIrfanYahyaAbdillah\PTPNIrfanYahyaAbdillah\bin\Debug\PTPNIrfanYahyaAbdillah.exe.config
+E:\placement test\PTPNIrfanYahyaAbdillah\PTPNIrfanYahyaAbdillah\bin\Debug\PTPNIrfanYahyaAbdillah.exe
+E:\placement test\PTPNIrfanYahyaAbdillah\PTPNIrfanYahyaAbdillah\bin\Debug\PTPNIrfanYahyaAbdillah.pdb
+E:\placement test\PTPNIrfanYahyaAbdillah\PTPNIrfanYahyaAbdillah\obj\Debug\PTPNIrfanYahyaAbdillah.csproj.AssemblyReference.cache
+E:\placement test\PTPNIrfanYahyaAbdillah\PTPNIrfanYahyaAbdillah\obj\Debug\PTPNIrfanYahyaAbdillah.FormTransaksi.resources
+E:\placement test\PTPNIrfanYahyaAbdillah\PTPNIrfanYahyaAbdillah\obj\Debug\PTPNIrfanYahyaAbdillah.Properties.Resources.resources
+E:\placement test\PTPNIrfanYahyaAbdillah\PTPNIrfanYahyaAbdillah\obj\Debug\PTPNIrfanYahyaAbdillah.csproj.GenerateResource.cache
+E:\placement test\PTPNIrfanYahyaAbdillah\PTPNIrfanYahyaAbdillah\obj\Debug\PTPNIrfanYahyaAbdillah.csproj.CoreCompileInputs.cache
+E:\placement test\PTPNIrfanYahyaAbdillah\PTPNIrfanYahyaAbdillah\obj\Debug\PTPNIrfanYahyaAbdillah.exe
+E:\placement test\PTPNIrfanYahyaAbdillah\PTPNIrfanYahyaAbdillah\obj\Debug\PTPNIrfanYahyaAbdillah.pdb
